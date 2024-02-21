@@ -1,0 +1,7 @@
+*.pdf                # 忽略所有的pdf文件
+*.txt                # 忽略所有的txt文件
+temp/                # 过滤掉temp文件夹
+temp.py              # 过滤temp.py文件
+temp.ipynb           # 过滤temp.ipynb文件 
+cai_teacher_article/ # 忽略cai_teacher_article文件夹
+__pycache__/         # 忽略__pycache__文件夹
